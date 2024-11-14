@@ -1,5 +1,5 @@
 {
-  "name": "lombok",
+  "name": "bamboots",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miguelmartinezmestre/lombokts.git"
+    "url": "git+https://github.com/miguelmartinezmestre/bamboots.git"
   },
   "author": "miguelmartinezmestre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miguelmartinezmestre/lombokts/issues"
+    "url": "https://github.com/miguelmartinezmestre/bamboots/issues"
   },
-  "homepage": "https://github.com/miguelmartinezmestre/lombokts#readme"
+  "homepage": "https://github.com/miguelmartinezmestre/bamboots#readme"
 }
